@@ -35,8 +35,20 @@ A mini Wordle game implemented in Racket.
 
 <div>
   <p>
-    <img src="https://img.shields.io/badge/Correct-33bf49" alt="Correct">
-    <img src="https://img.shields.io/badge/Correct%20Letter, %20Wrong%20Placement-yellow" alt="Correct">
-    <img src="https://img.shields.io/badge/Incorrect%20Letter-lightgray" alt="Correct">
+    <img src="https://img.shields.io/badge/Correct-33bf49" alt="Correct"/>
+    <img src="https://img.shields.io/badge/Correct%20Letter, %20Wrong%20Placement-yellow" alt="Correct Letter, Wrong Placement"/>
+    <img src="https://img.shields.io/badge/Incorrect%20Letter-lightgray" alt="Incorrect"/>
   </p>
+</div>
+
+### Gameplay 
+<div>
+   <p>
+      <img src="./images/s1.png" width="300">
+      <img src="./images/s2.png" width="300">
+   </p>
+   <p>
+      <img src="./images/s3.png" width="300">
+      <img src="./images/s4.png" width="300">
+   </p>
 </div>
